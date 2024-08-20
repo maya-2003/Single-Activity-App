@@ -58,7 +58,7 @@
 
     <TextView
         android:drawablePadding="16dp"
-        android:textColor="#2196F3"
+        android:textColor="@color/blue"
         android:layout_marginTop="16dp"
         android:textSize="32sp"
         android:drawableStart="@drawable/location"
